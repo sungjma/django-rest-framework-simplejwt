@@ -41,7 +41,7 @@ msgid "Token is invalid or expired"
 msgstr "Token inválido ou expirado"
 
 #: serializers.py:44
-msgid "No active account found with the given credentials"
+msgid "No active account found with the given credentials!"
 msgstr "Usuário e/ou senha incorreto(s)"
 
 #: settings.py:53
